@@ -4,4 +4,11 @@
 
 ***If it's helpful for you, please give me a star.***
 
+
+<font face="华文行楷">
+这是北京邮电大学大数据技术基础的代码部分，关于实验的更多信息请访问我的博客获取
+</font>
+
+<font face="Consolas">
 This is the code section of the laboratory experiment for the Big Data Technology Fundamentals course at Beijing University of Posts and Telecommunications. Please browse my blog for more detailed information.
+</font>
